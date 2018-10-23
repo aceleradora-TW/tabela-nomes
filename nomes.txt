@@ -2,8 +2,6 @@ Naty
 SHIRLEYS
 shirleys
 Juliane
-Brenda
-Diovane
 Cássia
 marcos paulo
 victoria fraga
@@ -13,3 +11,5 @@ Juliane
 Brenda
 Laura
 Duda
+Diovane Mendes
+Cássia Gomes
